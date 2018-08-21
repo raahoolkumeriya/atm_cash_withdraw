@@ -1,8 +1,8 @@
 # atm_cash_withdraw
 
-What if INDIAN ATM cash withdraw system server you with Black Screen ?
+What if INDIAN ATM cash withdraw system serve you with Black Screen ?
 
-with above the idea teh code is written in UNIX script.
+with above the idea the code is written in UNIX script.
 
 Pre-requisites: 
   - Create two table with below configurationin database by running @database_Setting.sql
